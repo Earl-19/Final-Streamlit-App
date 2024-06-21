@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 def load_model():
-    return joblib.load(r'C:\Users\thape\Downloads\best_model.pkl')
+    return joblib.load(r'C:\Users\thape\PycharmProjects\appstream\appHeart\best_model.pkl')
 
 def main():
     st.title('Heart Disease Prediction')
