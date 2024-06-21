@@ -1,2 +1,0 @@
-# appHeart
- Predictions
